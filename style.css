@@ -1,8 +1,17 @@
 body{
     text-align:justify;
-    
+    background-color: #304D63;
 }
 #bike
 {
     width: 100%;
+}
+h1{
+  color: #F2D096 ;
+  background-color:  #8FB9AA   ;
+  font-size: 80px;
+  font-weight: bold;
+}
+h2{
+    Color:   #ED8975
 }
