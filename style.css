@@ -1,17 +1,23 @@
 body{
-    text-align:justify;
-    background-color: #304D63;
+    text-align: center;
+    background-color: #A6C871;
+
 }
 #bike
 {
     width: 100%;
 }
 h1{
-  color: #F2D096 ;
-  background-color:  #8FB9AA   ;
+  height: 200px;
+    color:  #D02C8F;
+  background-color:  #EDC100;
+
   font-size: 80px;
   font-weight: bold;
+  font-style: italic;
+  font-variant-ligatures: contextual;
 }
 h2{
-    Color:   #ED8975
+    Color:   #D02C8F
+
 }
