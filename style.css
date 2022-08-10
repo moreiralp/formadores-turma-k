@@ -8,10 +8,11 @@ body{
     width: 100%;
 }
 #parágrafo1{
-  border-color: aliceblue;
+  border-color: rgb(5, 129, 238);
   border-width: 30px;
   border-top-left-radius: 80%;
   text-align: justify;
+  text-size-adjust: 25px;
 }
 h1{
   height: 200px;
