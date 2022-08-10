@@ -1,29 +1,31 @@
 body{
-    text-align: center;
-    background-color: #A6C871;
+  text-align: center;
+  background-color: #A6C871;
 
 }
 #bike-principal
 {
-    width: 80%;
+  width: 80%;
 }
 #parágrafo1{
-  border-color: rgb(5, 129, 238);
-  border-width: 30px;
-  text-align:center;
-  font-style:italic;
+border-color: rgb(5, 129, 238);
+border-width: 30px;
+text-align:center;
+font-style:italic;
 }
-h1{
-  height: 200px;
-    color:  #D02C8F;
-  background-color:  #EDC100;
 
-  font-size: 80px;
-  font-weight: bold;
-  font-style: italic;
-  font-variant-ligatures: contextual;
+h1{
+height: 120px;
+  color:  #D02C8F;
+background-color:  #EDC100;
+border: 10px;
+
+font-size: 80px;
+font-weight: bold;
+font-style: italic;
 }
+
 h2{
-    Color:   #D02C8F
+  Color:   #D02C8F;
 
 }
