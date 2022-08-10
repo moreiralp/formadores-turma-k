@@ -10,6 +10,7 @@ body{
 #parágrafo1{
   border-color: aliceblue;
   border-width: 20px;
+  border-top-left-radius: 80%;
 }
 h1{
   height: 200px;
