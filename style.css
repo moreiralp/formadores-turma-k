@@ -3,9 +3,13 @@ body{
     background-color: #A6C871;
 
 }
-#bike
+#bike-principal
 {
     width: 100%;
+}
+#parágrafo1{
+  border-color: aliceblue;
+  border-width: 20px;
 }
 h1{
   height: 200px;
