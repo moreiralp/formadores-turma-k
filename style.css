@@ -9,8 +9,9 @@ body{
 }
 #parágrafo1{
   border-color: aliceblue;
-  border-width: 10px;
+  border-width: 30px;
   border-top-left-radius: 80%;
+  text-align: justify;
 }
 h1{
   height: 200px;
