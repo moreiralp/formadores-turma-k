@@ -5,14 +5,13 @@ body{
 }
 #bike-principal
 {
-    width: 50%;
+    width: 80%;
 }
 #parágrafo1{
   border-color: rgb(5, 129, 238);
   border-width: 30px;
-  border-top-left-radius: 80%;
-  text-align: justify;
-  text-size-adjust: 25px;
+  text-align:center;
+  font-style:italic;
 }
 h1{
   height: 200px;
