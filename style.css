@@ -1,5 +1,4 @@
 body{
-  text-align: center;
   background-color: #A6C871;
 
 }
@@ -8,24 +7,49 @@ body{
   width: 80%;
 }
 #parágrafo1{
-border-color: rgb(5, 129, 238);
-border-width: 30px;
-text-align:center;
-font-style:italic;
+  border-color: rgb(5, 129, 238);
+  color: rgb(5, 129, 238);
+  border-width: 30px;
+  text-align:center;
+  font-style:italic;
+  font-weight: 200;
+}
+
+#parágrafo2{
+  text-align: center;
+  font-style: oblique;
+}
+
+#parágrafo3{
+  text-align: center;
+  font-style: oblique;
 }
 
 h1{
-height: 120px;
+  height: 120px;
   color:  #D02C8F;
-background-color:  #EDC100;
-border: 10px;
+  background-color:  #EDC100;
+  border: 10px;
+  text-align: center;
 
-font-size: 80px;
-font-weight: bold;
-font-style: italic;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: italic;
 }
 
 h2{
   Color:   #D02C8F;
+  text-align: center;
+}
 
+h3{
+  color: #D02C8F;
+  text-align: left;
+}
+
+.beneficios{
+  font-style: italic;
+  font-size: medium;
+  text-align: center;
+  list-style-position:outside;
 }
