@@ -53,3 +53,15 @@ h3{
   text-align: center;
   list-style-position:outside;
 }
+
+.imagembeneficios{
+  width: 10%;
+
+}
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width:15%;
+  margin-right: 0%;
+}
